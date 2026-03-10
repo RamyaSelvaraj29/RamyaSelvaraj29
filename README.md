@@ -34,10 +34,10 @@ Based in the Bay Area and focused on roles where
 rigorous data work sits close to the product.
 
 - 🌱 Currently building my product analytics portfolio
-- 🤝 **Let's collaborate or connect if you're working on** 
+- 🤝 Let's collaborate or connect if you're working on
   product analytics, data pipelines, experimentation, 
   or ML - always open to interesting problems and 
-  people building cool things with data**
+  people building cool things with data.
 
 ---
 
